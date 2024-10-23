@@ -1,5 +1,7 @@
 # Evidenciasdevops
 Repositorio para colocar las evidencias del proyecto de devops
+enlace de beanstalk: http://protobootapp-alexander-env-prod.eba-rdznpmm2.us-east-1.elasticbeanstalk.com
+
 success en github actions
 
 <img width="591" alt="image" src="https://github.com/user-attachments/assets/04d6e104-d9c4-48c8-b98e-a19e6b10a1ac">
