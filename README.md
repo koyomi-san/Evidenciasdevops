@@ -66,6 +66,15 @@ reportes de la ejecución en codebuild
 
 <img width="796" alt="image" src="https://github.com/user-attachments/assets/540246d0-d800-495a-b723-e7ff87fe97e4">
 
+quitar mvn test
+
+
+Cambio en el code coverage
+<img width="1135" alt="image" src="https://github.com/user-attachments/assets/28bc0c28-511c-46d5-aa53-d97f2048a0d6">
+<img width="1135" alt="image" src="https://github.com/user-attachments/assets/7e7988bc-fea5-4886-8e91-d893e0edd104">
+
+
+
 
 
 
